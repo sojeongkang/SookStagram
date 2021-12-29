@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/app/build.gradle" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/example/smwu/ChatBotActivity.java" charset="EUC-KR" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/example/smwu/LoginActivity.kt" charset="EUC-KR" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/example/smwu/navigation" charset="EUC-KR" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable-v24/btn_signin_facebook.png" charset="EUC-KR" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable-v24/btn_signin_google.png" charset="EUC-KR" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable-v24/btn_signin_twitter.png" charset="EUC-KR" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable-v24/ic_account.png" charset="EUC-KR" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable-v24/ic_add_a_photo.png" charset="EUC-KR" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable-v24/ic_arrow_back.png" charset="EUC-KR" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable-v24/ic_chat_black.png" charset="EUC-KR" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable-v24/ic_favorite.png" charset="EUC-KR" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable-v24/ic_favorite_border.png" charset="EUC-KR" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable-v24/ic_home.png" charset="EUC-KR" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable-v24/ic_search.png" charset="EUC-KR" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable-v24/logo_title.png" charset="EUC-KR" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable-v24/push_icon.xml" charset="EUC-KR" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/layout/activity_add_photo.xml" charset="EUC-KR" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/layout/activity_comment.xml" charset="EUC-KR" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/layout/activity_login.xml" charset="EUC-KR" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" charset="EUC-KR" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_alarm.xml" charset="EUC-KR" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_detail.xml" charset="EUC-KR" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_grid.xml" charset="EUC-KR" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_user.xml" charset="EUC-KR" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/layout/item_comment.xml" charset="EUC-KR" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/layout/item_detail.xml" charset="EUC-KR" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/menu" charset="EUC-KR" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/values/colors.xml" charset="EUC-KR" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/values/strings.xml" charset="EUC-KR" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/values/styles.xml" charset="EUC-KR" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/values/values" charset="EUC-KR" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
